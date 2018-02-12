@@ -16,6 +16,7 @@ body{
     width: 100px;
     border: 2px solid black;
     background-image: 100% 100%;
+    display: flex;
 }
 
 #Theatre{
@@ -41,6 +42,7 @@ body{
     height: 0;
     border-style: solid;
     top: 40%;
+    display: flex;
 }
 
 #leftArrow{

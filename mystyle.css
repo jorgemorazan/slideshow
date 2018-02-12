@@ -1,7 +1,7 @@
 body{
     background-image: url("Images/background.png");
     background-color: gray;
-    background-size: 100% 100%
+    background-size: 100% 100%;
 }
 
 #Carousel{
@@ -15,11 +15,7 @@ body{
     height: 100px;
     width: 100px;
     border: 2px solid black;
-}
-
-.Thumbnails img{
-    height: 100%;
-    width: 100%;
+    background-image: 100% 100%;
 }
 
 #Theatre{

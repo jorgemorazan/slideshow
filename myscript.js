@@ -156,7 +156,6 @@ function moveIt(){
 }
 
 function displayIt(){
-	let display = document.querySelector('#Theatre');
-		displayer = document.querySelector('.displayMe');
-		displayer.src = imgs[index];
+	let displayer = document.querySelector('.displayMe');
+	displayer.src = imgs[index];
 }

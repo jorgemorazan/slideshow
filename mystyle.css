@@ -1,0 +1,63 @@
+body{
+    background-image: url("Images/background.png");
+    background-color: gray;
+    background-size: 100% 100%
+}
+
+#Theatre{
+    height: 520px;
+    width: 520px;
+    margin-left: 30%;
+}
+
+#Theatre img{
+    height: 510px;
+    width: 525px;
+    display: flex;
+    
+}
+
+#Carousel{
+    display: flex;
+    flex-direction: row;
+    margin-left: 30%;
+}
+
+.Thumbnails{
+    cursor: pointer;
+    height: 100px;
+    width: 100px;
+    border: 2px solid black;
+}
+
+.Thumbnails img{
+    width: 100%;
+    height: 100%;
+}
+
+#imgZero{
+    border: 4px solid darkred;
+}
+
+.arrow{
+    cursor: pointer;
+    position: absolute;
+    width: 0;
+    height: 0;
+    border-style: solid;
+    top: 40%;
+}
+
+#leftArrow{
+    border-width: 20px 30px 20px 0;
+    left: 0;
+    border-color: transparent gray transparent transparent;
+    margin-left: 11%;
+}
+
+#rightArrow{
+    border-width: 20px 0 20px 30px;
+    right: 0;
+    border-color: transparent transparent transparent gray;
+    margin-right: 15%;
+}

@@ -1,6 +1,6 @@
 var imgs = ['Images/img00.jpg','Images/img01.jpg', 'Images/img02.jpg', 'Images/img03.jpg', 
 			'Images/img04.jpg','Images/img05.jpg', 'Images/img06.jpg', 'Images/img07.jpg',
-			'Images/img08.jpg', 'Images/img09.png', 'Images/img10.png', 'Images/img11.jpg',
+			'Images/img08.jpg', 'Images/img09.jpg', 'Images/img10.jpg', 'Images/img11.jpg',
 			'Images/img12.jpg', 'Images/img13.jpg', 'Images/img14.jpg'];
 
 var indexMinusTwo = imgs.length-2;
